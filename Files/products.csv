@@ -1,0 +1,1001 @@
+product_id,name,category,price,stock_quantity
+1,Tea Bags 1,Electronics,131.64,584
+2,Car Charger 2,Sports,123.27,6
+3,T-Shirt 3,Automotive,210.06,700
+4,Face Cream 4,Electronics,400.15,235
+5,First Aid Kit 5,Books,418.71,271
+6,Puzzle Game 6,Clothing,490.22,49
+7,Tea Bags 7,Toys,53.22,474
+8,Action Figure 8,Sports,464.11,791
+9,Plant Pot 9,Home & Garden,295.33,991
+10,Novel Book 10,Beauty,336.69,480
+11,Running Shoes 11,Books,117.67,375
+12,Face Cream 12,Electronics,372.9,678
+13,Lamp 13,Clothing,310.36,157
+14,Face Cream 14,Food,485.64,590
+15,Tea Bags 15,Food,125.74,682
+16,Cookbook 16,Electronics,250.43,436
+17,Car Charger 17,Sports,200.43,810
+18,Board Game 18,Automotive,467.17,49
+19,Action Figure 19,Food,171.86,342
+20,Novel Book 20,Electronics,44.37,29
+21,Jeans 21,Beauty,122.03,711
+22,Coffee Mug 22,Sports,195.71,332
+23,Cookbook 23,Clothing,286.27,770
+24,Tire Gauge 24,Clothing,223.28,496
+25,Yoga Mat 25,Books,264.04,191
+26,Lipstick 26,Books,386.52,208
+27,Plant Pot 27,Books,331.34,447
+28,Phone Holder 28,Automotive,402.99,374
+29,Coffee Mug 29,Electronics,22.5,876
+30,Smartphone 30,Health,128.38,556
+31,Yoga Mat 31,Beauty,497.68,185
+32,Car Charger 32,Health,229.56,689
+33,Shampoo 33,Automotive,12.85,431
+34,Vitamin C 34,Health,496.94,408
+35,Running Shoes 35,Beauty,439.51,227
+36,Puzzle Game 36,Automotive,108.94,53
+37,Magazine 37,Food,213.78,791
+38,Cookbook 38,Home & Garden,98.82,173
+39,First Aid Kit 39,Automotive,231.46,880
+40,Running Shoes 40,Home & Garden,310.0,331
+41,Laptop 41,Automotive,145.52,303
+42,Puzzle Game 42,Clothing,11.74,257
+43,Laptop 43,Beauty,281.61,99
+44,Face Cream 44,Food,232.91,182
+45,Wireless Headphones 45,Toys,495.34,603
+46,Tea Bags 46,Electronics,441.39,75
+47,Protein Powder 47,Books,88.83,483
+48,Lamp 48,Clothing,202.47,265
+49,Face Cream 49,Electronics,47.4,855
+50,Novel Book 50,Beauty,6.53,56
+51,Lipstick 51,Health,446.29,555
+52,Laptop 52,Books,156.16,679
+53,Puzzle Game 53,Beauty,319.68,38
+54,Action Figure 54,Automotive,88.69,357
+55,Coffee Mug 55,Beauty,457.56,624
+56,Jeans 56,Home & Garden,298.48,721
+57,Lipstick 57,Clothing,357.73,587
+58,Coffee Mug 58,Automotive,62.09,344
+59,Basketball 59,Beauty,128.07,463
+60,Jeans 60,Beauty,425.29,20
+61,Sweater 61,Food,88.85,569
+62,Car Charger 62,Sports,472.36,665
+63,Car Charger 63,Books,205.53,448
+64,Tea Bags 64,Sports,339.23,418
+65,Yoga Mat 65,Books,11.77,171
+66,Snack Box 66,Home & Garden,350.64,798
+67,Action Figure 67,Electronics,157.9,361
+68,Lipstick 68,Sports,30.04,336
+69,Tea Bags 69,Food,257.76,805
+70,Snack Box 70,Sports,451.25,63
+71,Car Charger 71,Clothing,458.26,296
+72,Jeans 72,Toys,322.89,831
+73,Jeans 73,Food,126.6,292
+74,Basketball 74,Toys,163.45,487
+75,Lamp 75,Toys,94.64,850
+76,Sweater 76,Books,194.33,639
+77,Phone Holder 77,Books,27.06,25
+78,Tire Gauge 78,Clothing,399.07,917
+79,Wireless Headphones 79,Electronics,463.08,561
+80,Coffee Mug 80,Automotive,358.7,413
+81,Lamp 81,Home & Garden,46.37,662
+82,Cookbook 82,Electronics,398.51,496
+83,Magazine 83,Automotive,476.13,700
+84,Wireless Headphones 84,Toys,490.87,26
+85,Lipstick 85,Health,337.43,712
+86,Tea Bags 86,Sports,42.89,892
+87,Yoga Mat 87,Sports,63.04,416
+88,Plant Pot 88,Food,209.05,125
+89,Laptop 89,Automotive,100.71,15
+90,Face Cream 90,Health,211.84,574
+91,Puzzle Game 91,Beauty,17.68,789
+92,Cookbook 92,Clothing,138.72,873
+93,Jeans 93,Automotive,144.75,580
+94,Car Charger 94,Clothing,397.79,862
+95,Yoga Mat 95,Books,290.23,354
+96,Chocolate Bar 96,Clothing,250.04,448
+97,Running Shoes 97,Books,67.91,409
+98,T-Shirt 98,Automotive,10.47,39
+99,Vitamin C 99,Home & Garden,405.12,813
+100,First Aid Kit 100,Books,12.69,120
+101,Basketball 101,Clothing,270.95,68
+102,Lipstick 102,Food,20.24,445
+103,Action Figure 103,Health,193.11,195
+104,Laptop 104,Food,80.51,385
+105,Plant Pot 105,Clothing,91.35,995
+106,Tea Bags 106,Health,439.37,415
+107,Smartphone 107,Automotive,142.46,295
+108,Yoga Mat 108,Automotive,39.32,659
+109,Tea Bags 109,Books,232.95,263
+110,Snack Box 110,Toys,55.01,708
+111,Sweater 111,Clothing,201.66,491
+112,Coffee Mug 112,Clothing,6.31,38
+113,Face Cream 113,Home & Garden,155.87,599
+114,Laptop 114,Electronics,83.09,41
+115,Board Game 115,Electronics,88.63,711
+116,Smartphone 116,Toys,17.35,504
+117,First Aid Kit 117,Health,358.37,692
+118,Running Shoes 118,Books,191.19,108
+119,Jeans 119,Health,409.86,539
+120,Sweater 120,Electronics,194.21,30
+121,Cookbook 121,Books,212.2,523
+122,Board Game 122,Toys,477.85,109
+123,Jeans 123,Home & Garden,452.98,560
+124,Plant Pot 124,Electronics,140.83,109
+125,Magazine 125,Health,366.66,165
+126,Basketball 126,Home & Garden,468.11,272
+127,Vitamin C 127,Home & Garden,280.69,151
+128,Action Figure 128,Books,276.8,776
+129,Chocolate Bar 129,Toys,455.28,54
+130,Snack Box 130,Electronics,248.93,520
+131,Laptop 131,Beauty,319.33,72
+132,Board Game 132,Electronics,341.29,845
+133,Face Cream 133,Automotive,356.15,315
+134,Vitamin C 134,Home & Garden,220.69,19
+135,Phone Holder 135,Electronics,491.31,399
+136,Phone Holder 136,Toys,485.84,63
+137,Tire Gauge 137,Food,272.27,860
+138,Lamp 138,Electronics,59.51,988
+139,Protein Powder 139,Automotive,134.33,816
+140,Wireless Headphones 140,Health,469.52,654
+141,Vitamin C 141,Sports,190.62,31
+142,Puzzle Game 142,Automotive,463.67,171
+143,Basketball 143,Electronics,30.78,990
+144,Lipstick 144,Automotive,345.64,767
+145,Tire Gauge 145,Toys,379.22,333
+146,Cookbook 146,Books,423.82,708
+147,Car Charger 147,Home & Garden,300.3,192
+148,Board Game 148,Health,301.07,872
+149,Magazine 149,Home & Garden,372.07,760
+150,Action Figure 150,Food,391.57,197
+151,Yoga Mat 151,Home & Garden,135.08,537
+152,Cookbook 152,Beauty,466.73,100
+153,Action Figure 153,Electronics,54.85,541
+154,Cookbook 154,Health,299.41,486
+155,Lamp 155,Toys,352.71,952
+156,T-Shirt 156,Toys,387.02,453
+157,Phone Holder 157,Books,383.13,908
+158,Coffee Mug 158,Clothing,168.66,573
+159,Coffee Mug 159,Beauty,103.08,292
+160,Snack Box 160,Beauty,433.08,224
+161,Protein Powder 161,Health,341.9,282
+162,Phone Holder 162,Automotive,37.56,586
+163,Laptop 163,Toys,491.21,721
+164,Chocolate Bar 164,Sports,415.66,136
+165,Car Charger 165,Books,66.09,240
+166,Chocolate Bar 166,Health,280.46,876
+167,Car Charger 167,Automotive,492.72,399
+168,Running Shoes 168,Sports,495.63,828
+169,Yoga Mat 169,Books,109.41,675
+170,Phone Holder 170,Books,148.54,54
+171,Car Charger 171,Automotive,488.11,188
+172,Laptop 172,Sports,76.84,187
+173,Phone Holder 173,Sports,291.8,199
+174,Tea Bags 174,Health,316.87,660
+175,Running Shoes 175,Books,327.63,511
+176,Board Game 176,Clothing,299.34,921
+177,Action Figure 177,Health,97.77,165
+178,Face Cream 178,Health,486.54,820
+179,Cookbook 179,Books,452.61,959
+180,Shampoo 180,Automotive,12.17,13
+181,Cookbook 181,Beauty,229.38,928
+182,Shampoo 182,Food,417.6,236
+183,Tire Gauge 183,Beauty,324.19,179
+184,Tea Bags 184,Toys,96.4,498
+185,Plant Pot 185,Automotive,164.74,409
+186,Snack Box 186,Toys,467.51,145
+187,Puzzle Game 187,Automotive,134.26,224
+188,Puzzle Game 188,Electronics,413.63,973
+189,Laptop 189,Sports,168.99,47
+190,Face Cream 190,Health,146.4,101
+191,Puzzle Game 191,Books,482.41,540
+192,Yoga Mat 192,Books,212.61,941
+193,Smartphone 193,Home & Garden,335.28,993
+194,Lamp 194,Automotive,29.88,661
+195,Novel Book 195,Food,376.07,482
+196,Board Game 196,Toys,92.53,677
+197,Magazine 197,Electronics,489.48,482
+198,Magazine 198,Health,453.86,974
+199,Phone Holder 199,Toys,409.1,190
+200,Snack Box 200,Beauty,256.87,716
+201,Board Game 201,Automotive,85.01,38
+202,Face Cream 202,Clothing,45.71,840
+203,Face Cream 203,Health,177.94,518
+204,Snack Box 204,Toys,140.72,488
+205,Car Charger 205,Clothing,301.5,965
+206,Wireless Headphones 206,Books,150.69,426
+207,Basketball 207,Sports,335.75,685
+208,Smartphone 208,Automotive,8.62,910
+209,First Aid Kit 209,Clothing,400.97,107
+210,Tea Bags 210,Home & Garden,106.5,604
+211,Lipstick 211,Sports,377.82,778
+212,Snack Box 212,Sports,119.35,796
+213,Action Figure 213,Clothing,216.08,279
+214,Sweater 214,Home & Garden,244.81,696
+215,Puzzle Game 215,Electronics,132.44,263
+216,Basketball 216,Electronics,391.56,28
+217,Tea Bags 217,Electronics,37.54,474
+218,Face Cream 218,Toys,222.41,918
+219,Running Shoes 219,Clothing,324.74,319
+220,Plant Pot 220,Clothing,476.65,204
+221,Plant Pot 221,Health,231.51,75
+222,Snack Box 222,Clothing,366.62,696
+223,T-Shirt 223,Clothing,275.72,150
+224,First Aid Kit 224,Food,304.74,844
+225,Running Shoes 225,Health,322.14,814
+226,Puzzle Game 226,Electronics,265.2,968
+227,Lamp 227,Electronics,152.22,267
+228,Board Game 228,Automotive,430.47,546
+229,Tire Gauge 229,Sports,377.12,787
+230,Tire Gauge 230,Health,214.76,700
+231,Running Shoes 231,Food,104.71,321
+232,Lamp 232,Health,9.46,634
+233,Shampoo 233,Beauty,177.01,387
+234,Face Cream 234,Home & Garden,109.56,148
+235,Board Game 235,Books,229.64,793
+236,Plant Pot 236,Health,227.44,720
+237,Novel Book 237,Sports,324.32,574
+238,Shampoo 238,Toys,118.39,974
+239,Phone Holder 239,Electronics,99.69,620
+240,Novel Book 240,Clothing,446.62,681
+241,Running Shoes 241,Toys,153.27,120
+242,Lamp 242,Food,487.97,969
+243,Sweater 243,Toys,499.09,993
+244,Action Figure 244,Clothing,98.78,324
+245,Board Game 245,Automotive,147.29,639
+246,Tire Gauge 246,Sports,324.41,192
+247,Snack Box 247,Food,357.13,314
+248,Tire Gauge 248,Books,283.55,361
+249,First Aid Kit 249,Books,58.97,390
+250,Chocolate Bar 250,Books,362.8,745
+251,Cookbook 251,Home & Garden,163.73,881
+252,First Aid Kit 252,Food,443.11,822
+253,Face Cream 253,Toys,9.75,373
+254,Chocolate Bar 254,Clothing,267.91,153
+255,Lipstick 255,Food,275.13,294
+256,Protein Powder 256,Toys,411.06,14
+257,Yoga Mat 257,Food,72.56,454
+258,Shampoo 258,Health,236.08,709
+259,Cookbook 259,Automotive,150.08,375
+260,Action Figure 260,Books,291.01,801
+261,Cookbook 261,Food,266.56,356
+262,Face Cream 262,Automotive,238.55,736
+263,Shampoo 263,Sports,110.38,577
+264,Action Figure 264,Food,270.34,289
+265,Plant Pot 265,Automotive,488.44,654
+266,Phone Holder 266,Home & Garden,285.45,939
+267,T-Shirt 267,Clothing,155.97,747
+268,Basketball 268,Electronics,498.2,628
+269,Lipstick 269,Sports,26.96,640
+270,Basketball 270,Food,430.48,560
+271,Action Figure 271,Home & Garden,186.04,358
+272,Plant Pot 272,Food,263.95,677
+273,Basketball 273,Automotive,256.22,99
+274,Basketball 274,Automotive,11.39,721
+275,Protein Powder 275,Food,190.21,702
+276,Sweater 276,Electronics,97.26,896
+277,Plant Pot 277,Home & Garden,311.59,623
+278,Sweater 278,Electronics,443.52,218
+279,Basketball 279,Electronics,392.96,437
+280,Basketball 280,Automotive,455.02,690
+281,Coffee Mug 281,Electronics,261.79,208
+282,Snack Box 282,Electronics,425.39,243
+283,Cookbook 283,Beauty,166.61,6
+284,Shampoo 284,Food,85.19,887
+285,Chocolate Bar 285,Automotive,436.42,926
+286,Smartphone 286,Home & Garden,486.61,695
+287,Jeans 287,Health,335.55,127
+288,Chocolate Bar 288,Clothing,72.69,785
+289,Protein Powder 289,Beauty,253.78,628
+290,Puzzle Game 290,Books,22.73,676
+291,Tire Gauge 291,Health,15.8,288
+292,Tea Bags 292,Electronics,31.06,737
+293,Action Figure 293,Clothing,292.21,443
+294,Plant Pot 294,Books,255.74,849
+295,Action Figure 295,Beauty,44.63,267
+296,Lamp 296,Food,425.1,793
+297,Wireless Headphones 297,Books,418.98,645
+298,Plant Pot 298,Books,60.98,335
+299,Yoga Mat 299,Books,248.7,477
+300,Board Game 300,Health,376.94,374
+301,Shampoo 301,Books,332.16,789
+302,Laptop 302,Sports,87.93,656
+303,Basketball 303,Home & Garden,240.61,374
+304,Puzzle Game 304,Electronics,78.32,673
+305,Novel Book 305,Books,268.69,630
+306,Jeans 306,Books,496.44,659
+307,First Aid Kit 307,Food,399.1,721
+308,Jeans 308,Electronics,434.48,223
+309,Board Game 309,Automotive,173.11,729
+310,Cookbook 310,Sports,431.67,807
+311,Plant Pot 311,Food,278.31,790
+312,Phone Holder 312,Books,16.69,855
+313,Chocolate Bar 313,Food,385.86,656
+314,Phone Holder 314,Home & Garden,339.54,477
+315,Basketball 315,Toys,92.11,878
+316,Snack Box 316,Toys,19.08,262
+317,Sweater 317,Books,344.7,54
+318,Phone Holder 318,Food,82.49,461
+319,Snack Box 319,Clothing,162.08,845
+320,Running Shoes 320,Toys,181.93,773
+321,Novel Book 321,Clothing,305.71,999
+322,Lamp 322,Beauty,273.68,819
+323,Face Cream 323,Books,467.96,873
+324,Board Game 324,Home & Garden,320.92,960
+325,Protein Powder 325,Health,63.79,544
+326,Novel Book 326,Electronics,475.66,604
+327,Puzzle Game 327,Food,434.88,261
+328,Sweater 328,Clothing,67.05,952
+329,Protein Powder 329,Toys,109.52,181
+330,Plant Pot 330,Electronics,95.87,961
+331,Wireless Headphones 331,Food,487.98,738
+332,Cookbook 332,Toys,319.54,467
+333,Snack Box 333,Electronics,269.5,324
+334,Protein Powder 334,Health,155.47,76
+335,Board Game 335,Automotive,430.55,517
+336,Running Shoes 336,Health,6.85,395
+337,Plant Pot 337,Health,201.87,711
+338,Chocolate Bar 338,Electronics,296.59,615
+339,Phone Holder 339,Food,211.51,568
+340,Jeans 340,Home & Garden,187.77,689
+341,Cookbook 341,Clothing,48.56,876
+342,Sweater 342,Beauty,226.17,308
+343,Lamp 343,Beauty,137.04,526
+344,T-Shirt 344,Books,272.42,76
+345,Cookbook 345,Clothing,8.71,488
+346,Sweater 346,Automotive,326.32,351
+347,Yoga Mat 347,Electronics,401.86,835
+348,Sweater 348,Health,223.9,212
+349,Running Shoes 349,Health,322.44,733
+350,Puzzle Game 350,Home & Garden,144.05,546
+351,Lipstick 351,Books,253.58,384
+352,Lamp 352,Clothing,37.6,56
+353,Magazine 353,Home & Garden,400.52,183
+354,Magazine 354,Automotive,282.98,811
+355,Laptop 355,Home & Garden,195.41,389
+356,First Aid Kit 356,Clothing,72.89,984
+357,Smartphone 357,Home & Garden,56.95,921
+358,Wireless Headphones 358,Clothing,236.59,535
+359,First Aid Kit 359,Clothing,39.5,718
+360,Cookbook 360,Beauty,417.21,51
+361,Running Shoes 361,Home & Garden,47.44,880
+362,Protein Powder 362,Automotive,48.02,689
+363,Coffee Mug 363,Toys,272.69,493
+364,Jeans 364,Food,374.14,206
+365,Jeans 365,Electronics,387.82,966
+366,Board Game 366,Books,23.43,454
+367,Smartphone 367,Automotive,472.43,906
+368,Cookbook 368,Automotive,363.62,42
+369,Car Charger 369,Beauty,268.44,35
+370,Laptop 370,Home & Garden,164.01,212
+371,Basketball 371,Sports,202.45,881
+372,Novel Book 372,Books,56.49,488
+373,Plant Pot 373,Sports,261.09,327
+374,Laptop 374,Books,377.98,728
+375,Vitamin C 375,Books,347.94,483
+376,Tire Gauge 376,Home & Garden,165.66,804
+377,Running Shoes 377,Clothing,317.98,255
+378,First Aid Kit 378,Books,197.81,945
+379,Cookbook 379,Food,151.6,870
+380,Tire Gauge 380,Toys,269.47,836
+381,Smartphone 381,Books,293.02,825
+382,Shampoo 382,Beauty,281.26,142
+383,Action Figure 383,Electronics,465.94,123
+384,Magazine 384,Books,234.78,992
+385,Cookbook 385,Toys,426.09,528
+386,Tea Bags 386,Electronics,456.33,690
+387,Snack Box 387,Books,129.27,142
+388,Protein Powder 388,Food,78.84,602
+389,Board Game 389,Automotive,486.72,871
+390,Yoga Mat 390,Clothing,325.1,168
+391,Action Figure 391,Clothing,205.23,921
+392,Lamp 392,Sports,28.23,662
+393,Action Figure 393,Health,297.67,522
+394,Coffee Mug 394,Automotive,251.47,6
+395,Face Cream 395,Sports,18.41,916
+396,Car Charger 396,Automotive,229.95,828
+397,Plant Pot 397,Health,265.17,753
+398,Sweater 398,Home & Garden,92.32,282
+399,Face Cream 399,Health,430.95,905
+400,Car Charger 400,Home & Garden,199.68,3
+401,Laptop 401,Books,356.31,271
+402,Tire Gauge 402,Home & Garden,383.97,505
+403,Yoga Mat 403,Sports,401.74,310
+404,Board Game 404,Automotive,46.79,859
+405,Running Shoes 405,Books,51.49,340
+406,Shampoo 406,Toys,496.81,962
+407,Magazine 407,Sports,409.28,82
+408,Protein Powder 408,Food,70.81,487
+409,Magazine 409,Sports,320.39,638
+410,Magazine 410,Clothing,181.49,137
+411,Smartphone 411,Home & Garden,207.12,282
+412,Vitamin C 412,Electronics,478.57,672
+413,Yoga Mat 413,Books,262.86,1
+414,Novel Book 414,Food,445.4,420
+415,Tea Bags 415,Toys,80.99,202
+416,Protein Powder 416,Food,400.89,850
+417,Phone Holder 417,Beauty,393.91,575
+418,Jeans 418,Home & Garden,346.36,475
+419,Novel Book 419,Electronics,270.63,882
+420,Sweater 420,Books,140.62,156
+421,Running Shoes 421,Books,399.59,89
+422,T-Shirt 422,Electronics,292.26,354
+423,Lamp 423,Beauty,348.02,90
+424,Running Shoes 424,Toys,326.49,598
+425,Snack Box 425,Books,139.75,545
+426,Basketball 426,Clothing,310.89,654
+427,Lamp 427,Automotive,250.86,781
+428,Lipstick 428,Clothing,109.45,470
+429,Tea Bags 429,Automotive,422.24,386
+430,Tea Bags 430,Toys,370.52,661
+431,Board Game 431,Sports,259.51,558
+432,First Aid Kit 432,Clothing,484.11,235
+433,Face Cream 433,Toys,487.02,706
+434,Action Figure 434,Home & Garden,261.98,241
+435,Snack Box 435,Health,16.52,6
+436,Car Charger 436,Automotive,453.92,906
+437,Wireless Headphones 437,Books,222.5,633
+438,First Aid Kit 438,Books,104.05,182
+439,First Aid Kit 439,Beauty,489.2,778
+440,Novel Book 440,Food,183.18,957
+441,Plant Pot 441,Toys,223.74,559
+442,First Aid Kit 442,Clothing,452.78,184
+443,Magazine 443,Food,334.31,149
+444,Cookbook 444,Health,118.9,284
+445,Jeans 445,Beauty,25.38,736
+446,Shampoo 446,Health,371.4,33
+447,Phone Holder 447,Books,403.39,822
+448,Protein Powder 448,Electronics,201.27,761
+449,Coffee Mug 449,Health,76.53,516
+450,Coffee Mug 450,Health,200.92,124
+451,Tire Gauge 451,Automotive,372.52,176
+452,Wireless Headphones 452,Food,90.26,498
+453,Board Game 453,Toys,234.99,424
+454,Yoga Mat 454,Beauty,376.94,283
+455,Running Shoes 455,Beauty,117.75,819
+456,Tea Bags 456,Automotive,97.99,95
+457,Coffee Mug 457,Health,9.11,684
+458,Protein Powder 458,Electronics,61.94,358
+459,Snack Box 459,Electronics,62.19,29
+460,Vitamin C 460,Home & Garden,342.55,984
+461,Snack Box 461,Health,351.41,418
+462,Laptop 462,Clothing,416.42,672
+463,Vitamin C 463,Toys,388.92,881
+464,Cookbook 464,Home & Garden,26.62,93
+465,First Aid Kit 465,Books,159.58,112
+466,Lipstick 466,Automotive,315.37,789
+467,Vitamin C 467,Home & Garden,317.71,929
+468,Basketball 468,Electronics,415.11,259
+469,Laptop 469,Toys,411.46,671
+470,Laptop 470,Clothing,224.42,661
+471,Snack Box 471,Toys,306.22,474
+472,Tire Gauge 472,Toys,26.18,671
+473,Lipstick 473,Electronics,292.74,801
+474,Smartphone 474,Sports,202.9,276
+475,Magazine 475,Books,162.31,695
+476,Puzzle Game 476,Beauty,355.44,643
+477,Laptop 477,Clothing,69.74,115
+478,Running Shoes 478,Home & Garden,86.3,496
+479,Snack Box 479,Toys,392.7,253
+480,Coffee Mug 480,Electronics,47.92,691
+481,Wireless Headphones 481,Books,464.46,910
+482,Lipstick 482,Books,469.93,507
+483,Phone Holder 483,Health,484.75,953
+484,Lipstick 484,Clothing,309.56,67
+485,Action Figure 485,Home & Garden,463.09,863
+486,Tea Bags 486,Automotive,255.57,841
+487,Novel Book 487,Electronics,125.46,513
+488,Coffee Mug 488,Home & Garden,252.2,8
+489,Laptop 489,Beauty,98.52,914
+490,Yoga Mat 490,Automotive,388.84,549
+491,Tire Gauge 491,Clothing,309.81,563
+492,Lamp 492,Toys,142.83,528
+493,Lamp 493,Books,23.83,427
+494,Sweater 494,Sports,235.75,397
+495,Jeans 495,Books,192.71,847
+496,Yoga Mat 496,Home & Garden,80.28,564
+497,Cookbook 497,Electronics,443.39,815
+498,Lamp 498,Clothing,68.94,417
+499,Puzzle Game 499,Clothing,38.79,732
+500,Shampoo 500,Electronics,330.99,823
+501,Phone Holder 501,Sports,13.02,294
+502,Plant Pot 502,Health,290.53,429
+503,Phone Holder 503,Home & Garden,105.01,133
+504,Wireless Headphones 504,Sports,439.66,996
+505,Wireless Headphones 505,Sports,254.65,897
+506,Lamp 506,Electronics,201.41,966
+507,Basketball 507,Home & Garden,459.11,263
+508,Tire Gauge 508,Food,421.25,20
+509,Smartphone 509,Food,20.08,76
+510,Jeans 510,Food,496.88,350
+511,Wireless Headphones 511,Food,305.46,207
+512,Car Charger 512,Books,332.09,570
+513,Cookbook 513,Toys,392.6,743
+514,Action Figure 514,Health,408.08,876
+515,Shampoo 515,Sports,290.74,220
+516,Snack Box 516,Toys,286.58,30
+517,Face Cream 517,Clothing,170.37,128
+518,Phone Holder 518,Food,53.13,695
+519,Puzzle Game 519,Health,375.5,241
+520,Action Figure 520,Toys,197.42,152
+521,Face Cream 521,Clothing,47.02,819
+522,Jeans 522,Home & Garden,5.29,871
+523,First Aid Kit 523,Toys,151.86,639
+524,T-Shirt 524,Home & Garden,319.54,12
+525,Cookbook 525,Sports,199.61,639
+526,Tire Gauge 526,Electronics,379.6,694
+527,T-Shirt 527,Beauty,226.79,767
+528,Action Figure 528,Automotive,102.37,9
+529,Laptop 529,Food,306.18,342
+530,Wireless Headphones 530,Books,263.85,574
+531,Cookbook 531,Health,77.54,591
+532,Cookbook 532,Electronics,84.04,361
+533,Running Shoes 533,Home & Garden,490.75,240
+534,Yoga Mat 534,Automotive,440.31,953
+535,Lipstick 535,Food,67.35,701
+536,Plant Pot 536,Health,202.15,574
+537,Tire Gauge 537,Automotive,240.97,626
+538,Vitamin C 538,Automotive,114.9,780
+539,Vitamin C 539,Home & Garden,288.18,179
+540,First Aid Kit 540,Books,269.41,381
+541,Lipstick 541,Toys,358.57,524
+542,Face Cream 542,Electronics,49.95,826
+543,Yoga Mat 543,Clothing,133.94,542
+544,Phone Holder 544,Automotive,118.22,143
+545,Lipstick 545,Health,99.41,238
+546,Snack Box 546,Health,484.68,997
+547,Yoga Mat 547,Sports,487.74,894
+548,Coffee Mug 548,Automotive,158.44,412
+549,First Aid Kit 549,Toys,113.63,362
+550,Sweater 550,Toys,452.47,615
+551,Lamp 551,Home & Garden,475.0,840
+552,Vitamin C 552,Beauty,176.7,686
+553,Protein Powder 553,Beauty,470.17,187
+554,Smartphone 554,Health,131.94,371
+555,Tire Gauge 555,Books,270.36,264
+556,Cookbook 556,Health,324.13,298
+557,First Aid Kit 557,Beauty,168.6,744
+558,Puzzle Game 558,Home & Garden,338.03,362
+559,Shampoo 559,Electronics,445.81,357
+560,Jeans 560,Home & Garden,459.31,450
+561,Face Cream 561,Automotive,448.99,605
+562,Yoga Mat 562,Clothing,305.51,82
+563,Puzzle Game 563,Health,305.48,780
+564,Phone Holder 564,Books,33.9,545
+565,First Aid Kit 565,Food,136.55,752
+566,Phone Holder 566,Food,114.38,130
+567,Action Figure 567,Sports,402.63,655
+568,Sweater 568,Toys,17.27,84
+569,Protein Powder 569,Toys,64.06,701
+570,Phone Holder 570,Books,397.6,974
+571,First Aid Kit 571,Toys,149.91,406
+572,Action Figure 572,Automotive,211.61,354
+573,Protein Powder 573,Books,123.12,53
+574,Jeans 574,Toys,104.26,660
+575,Sweater 575,Home & Garden,199.92,462
+576,Cookbook 576,Automotive,384.04,346
+577,Smartphone 577,Electronics,358.01,704
+578,Running Shoes 578,Health,370.68,37
+579,Wireless Headphones 579,Beauty,103.05,672
+580,Shampoo 580,Sports,169.71,820
+581,Smartphone 581,Beauty,442.37,793
+582,Puzzle Game 582,Toys,397.14,79
+583,Phone Holder 583,Clothing,321.86,685
+584,Cookbook 584,Home & Garden,76.3,36
+585,Face Cream 585,Health,125.5,901
+586,Puzzle Game 586,Sports,397.21,439
+587,Running Shoes 587,Health,295.1,993
+588,Puzzle Game 588,Sports,172.84,886
+589,Car Charger 589,Toys,225.63,375
+590,Laptop 590,Toys,492.3,35
+591,Jeans 591,Sports,172.29,907
+592,Wireless Headphones 592,Electronics,163.31,273
+593,Jeans 593,Health,475.39,615
+594,Phone Holder 594,Clothing,166.2,241
+595,Wireless Headphones 595,Electronics,486.62,57
+596,Jeans 596,Clothing,142.35,18
+597,Cookbook 597,Health,258.69,564
+598,Wireless Headphones 598,Toys,183.43,795
+599,Sweater 599,Home & Garden,469.44,211
+600,Laptop 600,Clothing,473.36,316
+601,Coffee Mug 601,Clothing,223.51,245
+602,Puzzle Game 602,Electronics,170.38,155
+603,Tea Bags 603,Clothing,20.3,9
+604,Plant Pot 604,Clothing,315.53,581
+605,Cookbook 605,Health,67.65,54
+606,Chocolate Bar 606,Automotive,493.73,527
+607,Running Shoes 607,Toys,463.96,603
+608,Snack Box 608,Beauty,19.98,711
+609,Action Figure 609,Sports,362.27,50
+610,Wireless Headphones 610,Electronics,305.32,956
+611,Coffee Mug 611,Food,488.59,745
+612,Laptop 612,Toys,452.97,434
+613,Board Game 613,Books,39.87,186
+614,Yoga Mat 614,Electronics,193.47,800
+615,Cookbook 615,Beauty,467.45,703
+616,Plant Pot 616,Health,338.99,779
+617,Basketball 617,Clothing,213.86,611
+618,Shampoo 618,Beauty,353.91,684
+619,Action Figure 619,Home & Garden,18.13,792
+620,Vitamin C 620,Beauty,368.93,617
+621,Lamp 621,Electronics,92.98,1
+622,Novel Book 622,Beauty,79.12,756
+623,Coffee Mug 623,Sports,373.61,747
+624,Lipstick 624,Clothing,11.24,553
+625,Phone Holder 625,Books,27.44,874
+626,Car Charger 626,Automotive,183.14,319
+627,Shampoo 627,Food,88.35,630
+628,Smartphone 628,Books,66.89,344
+629,Plant Pot 629,Beauty,356.72,608
+630,First Aid Kit 630,Toys,217.01,561
+631,Sweater 631,Food,307.96,954
+632,Coffee Mug 632,Automotive,236.45,912
+633,Plant Pot 633,Books,356.8,186
+634,Plant Pot 634,Sports,301.89,592
+635,Basketball 635,Electronics,423.99,559
+636,First Aid Kit 636,Food,222.69,945
+637,Cookbook 637,Home & Garden,438.4,923
+638,T-Shirt 638,Books,95.74,775
+639,Cookbook 639,Sports,390.78,656
+640,Face Cream 640,Food,25.94,73
+641,Jeans 641,Books,248.41,126
+642,Phone Holder 642,Health,310.54,179
+643,Novel Book 643,Electronics,424.92,483
+644,Plant Pot 644,Automotive,263.49,417
+645,Sweater 645,Sports,272.75,878
+646,Tea Bags 646,Beauty,323.27,601
+647,Board Game 647,Clothing,317.09,249
+648,Jeans 648,Books,37.1,956
+649,Sweater 649,Beauty,388.85,988
+650,Running Shoes 650,Books,261.2,378
+651,Laptop 651,Food,435.81,496
+652,Phone Holder 652,Home & Garden,285.45,624
+653,Yoga Mat 653,Toys,420.43,658
+654,Shampoo 654,Food,294.57,941
+655,Tire Gauge 655,Books,288.5,892
+656,Lipstick 656,Automotive,472.64,322
+657,Board Game 657,Electronics,215.56,993
+658,Jeans 658,Food,376.68,452
+659,Snack Box 659,Home & Garden,86.45,587
+660,Running Shoes 660,Clothing,260.34,261
+661,Cookbook 661,Automotive,171.5,448
+662,Shampoo 662,Clothing,326.19,652
+663,Tea Bags 663,Automotive,37.96,580
+664,Lamp 664,Health,147.32,392
+665,Laptop 665,Automotive,145.15,722
+666,Yoga Mat 666,Clothing,144.49,220
+667,Phone Holder 667,Electronics,225.77,216
+668,Basketball 668,Automotive,428.32,141
+669,Laptop 669,Sports,40.91,734
+670,Tea Bags 670,Sports,451.3,119
+671,T-Shirt 671,Health,125.66,85
+672,Vitamin C 672,Beauty,53.43,97
+673,Lamp 673,Toys,22.57,264
+674,First Aid Kit 674,Home & Garden,474.56,991
+675,Lipstick 675,Books,409.95,13
+676,Lipstick 676,Beauty,371.38,203
+677,Basketball 677,Automotive,436.75,833
+678,Phone Holder 678,Books,9.5,174
+679,Vitamin C 679,Toys,263.55,504
+680,Car Charger 680,Automotive,447.64,619
+681,Vitamin C 681,Sports,333.86,567
+682,Snack Box 682,Home & Garden,328.17,766
+683,Tire Gauge 683,Home & Garden,113.03,590
+684,Laptop 684,Automotive,493.24,76
+685,Novel Book 685,Home & Garden,268.15,4
+686,Tea Bags 686,Automotive,273.87,792
+687,Basketball 687,Sports,222.51,409
+688,Jeans 688,Clothing,438.77,657
+689,Plant Pot 689,Electronics,12.83,719
+690,Novel Book 690,Food,394.18,666
+691,Running Shoes 691,Books,215.6,814
+692,Tea Bags 692,Health,495.35,738
+693,Yoga Mat 693,Electronics,259.34,244
+694,Sweater 694,Electronics,397.31,43
+695,Tea Bags 695,Toys,410.58,306
+696,T-Shirt 696,Electronics,6.15,104
+697,Board Game 697,Automotive,121.81,649
+698,Basketball 698,Electronics,36.96,324
+699,Plant Pot 699,Electronics,321.02,258
+700,Board Game 700,Books,137.52,882
+701,Shampoo 701,Toys,477.31,63
+702,First Aid Kit 702,Automotive,225.94,462
+703,Lipstick 703,Sports,493.04,105
+704,Smartphone 704,Toys,288.79,690
+705,Face Cream 705,Home & Garden,11.23,172
+706,Magazine 706,Automotive,425.81,220
+707,Phone Holder 707,Toys,335.82,716
+708,Sweater 708,Toys,248.71,96
+709,T-Shirt 709,Health,24.13,987
+710,Magazine 710,Electronics,97.3,948
+711,Running Shoes 711,Sports,272.77,579
+712,Plant Pot 712,Clothing,235.28,534
+713,Laptop 713,Toys,234.43,563
+714,Shampoo 714,Automotive,95.41,876
+715,Protein Powder 715,Electronics,131.29,537
+716,Car Charger 716,Sports,299.01,736
+717,Protein Powder 717,Automotive,66.78,81
+718,Phone Holder 718,Sports,357.74,675
+719,Plant Pot 719,Health,56.27,797
+720,Action Figure 720,Automotive,358.47,894
+721,Yoga Mat 721,Food,340.0,148
+722,Magazine 722,Clothing,94.69,685
+723,Vitamin C 723,Health,362.87,178
+724,Lamp 724,Electronics,323.55,720
+725,Smartphone 725,Home & Garden,173.31,258
+726,Car Charger 726,Automotive,76.29,350
+727,Yoga Mat 727,Clothing,392.99,485
+728,Sweater 728,Automotive,302.65,665
+729,T-Shirt 729,Food,385.25,259
+730,Tire Gauge 730,Toys,193.4,883
+731,Lamp 731,Clothing,425.09,717
+732,Car Charger 732,Toys,186.28,600
+733,First Aid Kit 733,Beauty,249.75,735
+734,Shampoo 734,Sports,419.22,925
+735,Laptop 735,Toys,389.5,645
+736,Coffee Mug 736,Books,158.38,170
+737,First Aid Kit 737,Automotive,50.5,912
+738,Coffee Mug 738,Health,343.02,359
+739,Car Charger 739,Beauty,205.15,861
+740,First Aid Kit 740,Automotive,181.69,590
+741,Magazine 741,Health,494.46,175
+742,Sweater 742,Beauty,155.79,40
+743,Chocolate Bar 743,Beauty,115.33,976
+744,Vitamin C 744,Sports,237.0,974
+745,Phone Holder 745,Books,405.3,763
+746,Laptop 746,Sports,42.84,91
+747,Plant Pot 747,Beauty,110.17,668
+748,T-Shirt 748,Sports,462.42,493
+749,Chocolate Bar 749,Electronics,166.7,164
+750,Protein Powder 750,Clothing,379.44,584
+751,Jeans 751,Toys,462.47,130
+752,Lamp 752,Beauty,189.67,934
+753,Cookbook 753,Toys,415.84,719
+754,Cookbook 754,Sports,24.99,747
+755,Yoga Mat 755,Beauty,312.08,631
+756,Yoga Mat 756,Clothing,392.43,981
+757,Sweater 757,Automotive,204.95,750
+758,Chocolate Bar 758,Electronics,378.57,616
+759,Jeans 759,Beauty,382.38,159
+760,Magazine 760,Toys,104.7,864
+761,Yoga Mat 761,Food,447.88,603
+762,T-Shirt 762,Sports,338.09,443
+763,Board Game 763,Sports,100.95,109
+764,Shampoo 764,Health,465.66,546
+765,Cookbook 765,Beauty,227.5,624
+766,Face Cream 766,Sports,263.21,604
+767,Shampoo 767,Automotive,85.19,882
+768,Phone Holder 768,Books,328.54,771
+769,Puzzle Game 769,Health,441.06,555
+770,Phone Holder 770,Toys,353.29,394
+771,Smartphone 771,Home & Garden,345.54,830
+772,Yoga Mat 772,Beauty,21.86,519
+773,First Aid Kit 773,Sports,356.3,835
+774,Phone Holder 774,Automotive,297.04,480
+775,Tire Gauge 775,Clothing,211.27,759
+776,Chocolate Bar 776,Health,115.21,782
+777,Lamp 777,Electronics,9.97,561
+778,Laptop 778,Electronics,484.28,522
+779,First Aid Kit 779,Health,157.57,174
+780,Phone Holder 780,Clothing,62.63,455
+781,Jeans 781,Beauty,442.08,953
+782,Tea Bags 782,Health,370.11,441
+783,Jeans 783,Books,179.63,701
+784,Jeans 784,Books,297.89,842
+785,Novel Book 785,Health,158.8,13
+786,Novel Book 786,Clothing,439.18,310
+787,Running Shoes 787,Health,270.03,579
+788,Basketball 788,Food,344.03,218
+789,Tea Bags 789,Food,308.07,946
+790,Board Game 790,Electronics,203.46,342
+791,Smartphone 791,Home & Garden,245.19,245
+792,Protein Powder 792,Toys,118.33,390
+793,Plant Pot 793,Toys,268.9,28
+794,Protein Powder 794,Beauty,341.55,891
+795,Plant Pot 795,Automotive,247.19,977
+796,Tea Bags 796,Beauty,419.87,719
+797,Board Game 797,Electronics,155.51,838
+798,T-Shirt 798,Clothing,136.13,841
+799,Coffee Mug 799,Clothing,216.48,782
+800,Cookbook 800,Home & Garden,98.92,660
+801,Face Cream 801,Health,254.68,146
+802,Lamp 802,Sports,463.44,283
+803,Coffee Mug 803,Home & Garden,398.68,163
+804,Tire Gauge 804,Automotive,380.6,677
+805,Tea Bags 805,Food,430.0,605
+806,T-Shirt 806,Electronics,490.03,755
+807,Board Game 807,Home & Garden,151.92,860
+808,Car Charger 808,Beauty,173.87,177
+809,Face Cream 809,Beauty,311.34,35
+810,Jeans 810,Electronics,81.29,55
+811,Shampoo 811,Sports,31.5,854
+812,Yoga Mat 812,Beauty,21.25,378
+813,Lamp 813,Health,87.55,133
+814,Phone Holder 814,Automotive,433.07,674
+815,Action Figure 815,Sports,111.71,583
+816,Tire Gauge 816,Automotive,390.44,591
+817,Phone Holder 817,Sports,323.29,478
+818,Puzzle Game 818,Food,346.7,792
+819,Shampoo 819,Automotive,112.62,381
+820,Plant Pot 820,Home & Garden,366.83,530
+821,First Aid Kit 821,Toys,439.35,145
+822,Face Cream 822,Clothing,81.68,288
+823,Snack Box 823,Home & Garden,117.78,653
+824,Novel Book 824,Electronics,451.96,537
+825,Yoga Mat 825,Beauty,265.51,385
+826,Vitamin C 826,Clothing,179.84,309
+827,Coffee Mug 827,Toys,140.8,401
+828,Coffee Mug 828,Clothing,326.52,440
+829,Car Charger 829,Home & Garden,62.29,253
+830,Novel Book 830,Beauty,280.5,820
+831,Sweater 831,Home & Garden,416.19,414
+832,Tea Bags 832,Toys,358.24,741
+833,Sweater 833,Electronics,32.01,447
+834,Running Shoes 834,Health,106.11,639
+835,Shampoo 835,Books,87.25,841
+836,Action Figure 836,Clothing,444.19,892
+837,Vitamin C 837,Electronics,38.7,840
+838,Shampoo 838,Sports,118.27,549
+839,Magazine 839,Beauty,16.08,76
+840,Lipstick 840,Clothing,376.05,149
+841,Car Charger 841,Books,50.41,104
+842,Vitamin C 842,Toys,355.6,780
+843,Board Game 843,Electronics,485.27,167
+844,Magazine 844,Automotive,207.58,246
+845,Laptop 845,Automotive,406.06,402
+846,Face Cream 846,Beauty,226.11,67
+847,Running Shoes 847,Books,120.26,988
+848,Car Charger 848,Beauty,344.11,409
+849,Wireless Headphones 849,Clothing,373.89,362
+850,Novel Book 850,Sports,29.56,365
+851,Magazine 851,Toys,444.64,351
+852,Magazine 852,Home & Garden,416.84,883
+853,Chocolate Bar 853,Sports,417.0,667
+854,Lipstick 854,Food,70.72,355
+855,Magazine 855,Sports,280.69,934
+856,Car Charger 856,Clothing,114.02,484
+857,Puzzle Game 857,Automotive,232.07,289
+858,Jeans 858,Automotive,394.24,492
+859,Protein Powder 859,Automotive,356.21,628
+860,Face Cream 860,Health,367.31,388
+861,Tea Bags 861,Health,388.62,478
+862,Tire Gauge 862,Electronics,462.46,782
+863,Lipstick 863,Health,102.81,489
+864,Chocolate Bar 864,Sports,376.61,976
+865,Sweater 865,Books,142.65,728
+866,Wireless Headphones 866,Home & Garden,275.5,831
+867,Smartphone 867,Health,159.24,785
+868,Sweater 868,Electronics,337.78,19
+869,First Aid Kit 869,Health,93.09,229
+870,Yoga Mat 870,Automotive,223.25,609
+871,Laptop 871,Automotive,111.01,120
+872,Phone Holder 872,Food,430.05,584
+873,Basketball 873,Electronics,471.34,241
+874,Plant Pot 874,Toys,430.92,859
+875,Protein Powder 875,Beauty,150.25,66
+876,Jeans 876,Automotive,334.04,952
+877,Sweater 877,Food,229.17,204
+878,Yoga Mat 878,Electronics,87.81,245
+879,Coffee Mug 879,Sports,155.45,427
+880,Smartphone 880,Toys,252.63,912
+881,Novel Book 881,Food,294.09,404
+882,T-Shirt 882,Automotive,57.8,747
+883,Running Shoes 883,Beauty,174.6,35
+884,Car Charger 884,Beauty,210.12,362
+885,T-Shirt 885,Health,53.09,230
+886,Jeans 886,Home & Garden,33.4,53
+887,Snack Box 887,Sports,293.53,945
+888,Face Cream 888,Sports,433.74,927
+889,Jeans 889,Food,126.18,258
+890,Laptop 890,Books,465.52,388
+891,Protein Powder 891,Books,453.62,648
+892,Wireless Headphones 892,Sports,19.28,78
+893,Vitamin C 893,Books,485.31,538
+894,Puzzle Game 894,Beauty,436.1,356
+895,Chocolate Bar 895,Health,77.08,75
+896,Yoga Mat 896,Books,76.09,411
+897,T-Shirt 897,Clothing,172.05,106
+898,Jeans 898,Toys,308.35,824
+899,Tea Bags 899,Beauty,480.57,396
+900,First Aid Kit 900,Beauty,255.38,346
+901,Lamp 901,Books,374.55,807
+902,Lamp 902,Health,358.47,852
+903,Smartphone 903,Electronics,169.56,167
+904,Phone Holder 904,Books,489.74,667
+905,Action Figure 905,Health,90.08,355
+906,Novel Book 906,Sports,56.93,223
+907,Protein Powder 907,Toys,125.79,951
+908,Magazine 908,Electronics,75.19,923
+909,Chocolate Bar 909,Automotive,107.68,458
+910,Chocolate Bar 910,Books,342.73,578
+911,Yoga Mat 911,Electronics,369.63,432
+912,Protein Powder 912,Electronics,252.99,870
+913,Novel Book 913,Toys,326.55,99
+914,Novel Book 914,Books,107.48,814
+915,Car Charger 915,Automotive,275.22,937
+916,Wireless Headphones 916,Automotive,463.62,238
+917,Protein Powder 917,Electronics,203.5,1000
+918,Phone Holder 918,Clothing,137.99,907
+919,Puzzle Game 919,Food,452.57,62
+920,Lipstick 920,Food,27.11,369
+921,Snack Box 921,Sports,470.32,439
+922,Tea Bags 922,Books,224.67,815
+923,Shampoo 923,Beauty,300.01,139
+924,Face Cream 924,Beauty,234.52,334
+925,Vitamin C 925,Sports,114.95,739
+926,Wireless Headphones 926,Home & Garden,351.83,730
+927,Yoga Mat 927,Clothing,14.87,768
+928,Laptop 928,Automotive,361.0,409
+929,Smartphone 929,Automotive,47.58,87
+930,Protein Powder 930,Beauty,170.53,389
+931,Vitamin C 931,Books,227.0,187
+932,Coffee Mug 932,Beauty,154.61,79
+933,Protein Powder 933,Books,416.28,238
+934,Cookbook 934,Health,474.75,855
+935,Phone Holder 935,Health,440.39,147
+936,Puzzle Game 936,Beauty,171.61,92
+937,Magazine 937,Books,255.48,363
+938,Tea Bags 938,Beauty,89.65,637
+939,Action Figure 939,Health,342.53,137
+940,Basketball 940,Food,36.18,241
+941,Puzzle Game 941,Health,263.17,49
+942,Face Cream 942,Sports,298.58,84
+943,Snack Box 943,Sports,68.83,411
+944,First Aid Kit 944,Health,337.94,175
+945,Sweater 945,Books,113.53,770
+946,T-Shirt 946,Electronics,74.19,112
+947,Lamp 947,Clothing,491.88,304
+948,Action Figure 948,Food,15.89,676
+949,Running Shoes 949,Food,473.78,428
+950,Tire Gauge 950,Home & Garden,134.9,701
+951,Tire Gauge 951,Electronics,271.65,504
+952,Board Game 952,Food,114.18,606
+953,Action Figure 953,Toys,126.74,949
+954,Car Charger 954,Food,317.71,528
+955,Sweater 955,Sports,203.59,389
+956,Vitamin C 956,Books,463.43,688
+957,Jeans 957,Home & Garden,499.04,66
+958,First Aid Kit 958,Toys,6.97,940
+959,Laptop 959,Food,157.14,92
+960,Lamp 960,Automotive,245.95,952
+961,T-Shirt 961,Health,433.75,290
+962,Yoga Mat 962,Health,331.62,938
+963,Protein Powder 963,Clothing,402.52,733
+964,Shampoo 964,Toys,218.94,204
+965,Sweater 965,Food,412.38,933
+966,Snack Box 966,Health,132.8,515
+967,Protein Powder 967,Health,85.69,8
+968,Puzzle Game 968,Health,246.35,418
+969,Tea Bags 969,Beauty,310.32,510
+970,Running Shoes 970,Electronics,148.39,823
+971,Yoga Mat 971,Books,248.93,113
+972,Lipstick 972,Books,142.83,906
+973,Lipstick 973,Food,360.58,772
+974,Jeans 974,Automotive,389.74,138
+975,Snack Box 975,Clothing,421.1,381
+976,First Aid Kit 976,Electronics,66.7,276
+977,Plant Pot 977,Books,270.21,732
+978,Running Shoes 978,Food,375.49,177
+979,Yoga Mat 979,Toys,388.4,529
+980,Novel Book 980,Beauty,82.01,535
+981,Lipstick 981,Books,326.41,913
+982,Tea Bags 982,Clothing,230.41,405
+983,Smartphone 983,Beauty,188.32,165
+984,Lamp 984,Electronics,96.76,756
+985,Coffee Mug 985,Books,466.35,498
+986,Face Cream 986,Toys,42.47,46
+987,Cookbook 987,Home & Garden,150.48,52
+988,Shampoo 988,Health,441.13,63
+989,Jeans 989,Home & Garden,410.48,957
+990,Wireless Headphones 990,Toys,359.97,8
+991,Shampoo 991,Automotive,180.87,367
+992,Wireless Headphones 992,Books,92.35,774
+993,Jeans 993,Health,331.02,370
+994,Board Game 994,Sports,241.51,699
+995,First Aid Kit 995,Automotive,234.96,830
+996,Tea Bags 996,Toys,364.01,610
+997,Wireless Headphones 997,Food,212.02,327
+998,Cookbook 998,Beauty,326.02,1000
+999,Board Game 999,Beauty,254.45,3
+1000,Jeans 1000,Food,194.88,628
